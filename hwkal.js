@@ -20,23 +20,23 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = '@hikal857' // ubah aja
+global.ig = '@raka.ramadhan180108' // ubah aja
 global.linkgrupss = "https://chat.whatsapp.com/HFLC4LcrYpT2whCtA0wZf3"
-global.email = 'denyp857@gmail.com'
-global.region = 'indonesia'
+global.email = 'khathehard@gmail.com'
+global.region = 'Isekai'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KhaTheInvisble' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'KhaBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'KhaTheInvisbl' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289520604246'] // ubah aja pake nomor lu
-global.creator = "6289520604246@s.whatsapp.net"
-global.premium = ['6289520604246'] // ubah aja pake nomor lu
-global.packname = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' // ubah aja
-global.ownerr = ['𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚'] // ubaha aja
-global.author = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah aja
-global.sessionName = 'haikal'
+global.owner = ['62882006212045'] // ubah aja pake nomor lu
+global.creator = "62882006212045@s.whatsapp.net"
+global.premium = ['62782006212045'] // ubah aja pake nomor lu
+global.packname = 'KhaXd' // ubah aja
+global.ownerr = ['KahTheInvisble'] // ubaha aja
+global.author = 'Hw-Mods' //ubah aja
+global.sessionName = 'session'
 global.sp = '⭔' // Gausah Juga
 
 // Terserah
